@@ -1,1 +1,2 @@
-# workshop2
+# workshop2:
+# Object detection using web camera
